@@ -1,13 +1,17 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z2b291d2FzZnA5cXB1YWVtc3F5cGJ3Z2I2ajdza3Jhb282YWdjaSZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/L5oYQ8x12t82Wb7SgH/giphy.gif" alt="Digital Transformation Animation" width="600"/>
+</div>
+
 ### Hi there 👋
 
-# I'm Milton Tommy, a Full-Stack Enthusiast.
+# I'm Milton Tommy, a Digital Transformation Management Student.
 
 ---
 
 ## 📍 About Me
 
-* **Current Focus:** Full-Stack Developer Student at **SRH University of Applied Sciences**, Heidelberg, Germany.
-* **Goals:** Seeking a challenging **Internship** opportunity in software development.
+* **Current Focus:** Studying **Digital Transformation Management** at **SRH University of Applied Sciences** in **Haarlem, Netherlands**.
+* **Goals:** Seeking a challenging **Internship** opportunity in software development or digital strategy.
 * **Connect:** [LinkedIn Profile](https://www.linkedin.com/in/milton-tommy/)
 
 <br>
@@ -23,7 +27,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,bootstrap&theme=dark" alt="Skills Icons"/>
 
-> **Specialized in:** Baileys, leveraging strong JavaScript and Node.js fundamentals.
+> **Specialized in:** Baileys, leveraging strong JavaScript and Node.js fundamentals for digital projects.
 <img src="https://img.shields.io/badge/Baileys-%23351C75.svg?style=flat-square&logo=markdown&logoColor=white" alt="Baileys Badge"/>
 
 ---
