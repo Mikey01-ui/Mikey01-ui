@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z2b291d2FzZnA5cXB1YWVtc3F5cGJ3Z2I2ajdza3Jhb282YWdjaSZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/L5oYQ8x12t82Wb7SgH/giphy.gif" alt="Digital Transformation Animation" width="600"/>
+  <img src="https://media.giphy.com/media/Qy6Y5lT5JmQoWb2w7h/giphy.gif" alt="Top Coding Animation" width="600"/>
 </div>
 
 ### Hi there 👋
@@ -10,9 +10,13 @@
 
 ## 📍 About Me
 
-* **Current Focus:** Studying **Digital Transformation Management** at **SRH University of Applied Sciences** in **Haarlem, Netherlands**.
-* **Goals:** Seeking a challenging **Internship** opportunity in software development or digital strategy.
-* **Connect:** [LinkedIn Profile](https://www.linkedin.com/in/milton-tommy/)
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhscHJuZGw1ZWN3djgwZjF5c2R0cGdzZGJvMm5hNmZkd3N3dG5wdSZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/3ornjQM7D40Kj4T6nS/giphy.gif" alt="About Me Divider" width="50" style="margin-bottom: 10px;"/>
+</div>
+
+-   **Current Focus:** Studying **Digital Transformation Management** at **SRH University of Applied Sciences** in **Haarlem, Netherlands**.
+-   **Goals:** Seeking a challenging **Internship** opportunity in software development or digital strategy.
+-   **Connect:** [LinkedIn Profile](https://www.linkedin.com/in/milton-tommy/)
 
 <br>
 
