@@ -10,10 +10,10 @@
 
 ## 🚀 About Me
 
-🎓 **Master's Student** in Digital Transformation Management at the University of Applied Sciences, Iserlohn, Netherlands  
+🎓 **Bachelor's Student** in Digital Transformation Management at the University of Applied Sciences, Iserlohn, Netherlands  
 💼 **Tech Stack Enthusiast** with a passion for cutting-edge technologies  
 🌱 **Currently exploring:** Advanced web development, AI/ML integration, and digital strategy  
-⚡ **Fun fact:** I speak code fluently in HTML, CSS, JavaScript, React, Node.js, Python, Bootstrap, and Solana
+⚡ **Fun fact:** I speak code fluently in HTML, CSS, JavaScript, React, Node.js, Python, Bootstrap...
 
 ---
 
@@ -32,8 +32,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Blockchain
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 
 </div>
 
